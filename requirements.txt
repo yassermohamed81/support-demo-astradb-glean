@@ -6,3 +6,4 @@ pandas==2.1.4
 colorama==0.4.5
 tqdm==4.64.0
 ipywidgets==8.1.0
+https://app.glean.com/meta/indexing_api_client.zip
